@@ -4,4 +4,4 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmudassir7)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shinokada&theme=neon-palenight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdmudassir7&theme=neon-palenight&hide_border=true)

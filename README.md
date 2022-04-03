@@ -6,6 +6,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdmudassir7&theme=dark&hide_border=true)
 
-<p><a href="https://github.com/mdmudassir7" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohammed-mudassir-a715161a6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a   style="height: 20px; width: 30px;" href="https://leetcode.com/mohammedmudassir200/"target="_blank"><img alt="LeetCode" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" style="height: 28px; width: 120px;"/></a>
+<p><a href="https://github.com/mdmudassir7" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohammed-mudassir-a715161a6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a   style="height: 20px; width: 30px;" href="https://leetcode.com/mohammedmudassir200/"target="_blank"><img alt="LeetCode" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" style="height: 28px; width: 130px;"/></a>
 </p>
 

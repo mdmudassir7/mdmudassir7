@@ -6,3 +6,5 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdmudassir7&theme=neon-palenight&hide_border=true)
 
+<p><a href="https://github.com/mdmudassir7" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohammed-mudassir-a715161a6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
